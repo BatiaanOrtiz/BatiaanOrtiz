@@ -10,7 +10,7 @@
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 Soy estudiante de Ingeniería en Inteligencia Artificial
-- 💻 Tengo gran motivación por empezar a crecer laboralmente
+- 💻 ESPERO CRECER LABORALMENTE
 - ⭐ 2026's Objetivo: Aprender a Usar KaliLinux y conseguir mi primer trabajo como programador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Me gusta jugar videojuegos como Rocket League y me encanta el basketball así como la formula 1
 
